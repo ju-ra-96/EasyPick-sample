@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "question": "Are there some phone brands that you specially like ?",
+        "choices": ["Apple", "Samsung", "Blackberry", "Huawei","Motorola","Sony Ericsson","Xiaomi","ZTE","Other"],
+        "answer": ""
+      },
+      {
+        "id":2,
+        "question": "How much do you want to play games on your phone ?",
+        "choices": ["For many hours a day", "I want to play casually", "I do not want to play games at all"],
+        "answer": ""
+      },
+      {
+        "id":3,
+        "question": "Do you often connect devices via Bluetooth ?",
+        "choices": ["Yes often", "Only sometimes", "I never turn on Bluetooth", "What  is Bluetooth ?"],
+        "answer": ""
+      },
+      {
+        "id":4,
+        "question": "How critical is the quality of the pictures you will take with your phone camera?",
+        "choices": ["I will use the pictures of my phone for professional purposes", "I want to have a very good camera so I can upload and save high quality pictures", "I want to have a good camera so I can share my pictures with my friends", "I don’t care about camera quality"],
+        "answer": ""
+      },
+      {
+        "id":5,
+        "question": "Which of these features are really important for you ?",
+        "choices": ["The phone should be extremely lightweight", "The phone should be able to recognize my face", "The phone should be able to recognize my fingerprints"],
+        "answer": ""
+      }
+    ]
+  }

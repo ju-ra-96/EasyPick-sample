@@ -1,0 +1,79 @@
+.table{
+    color:black !important;
+}
+
+.header{
+    min-width: 100px !important;
+    margin: 0px !important;
+}
+
+.selectButton{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    margin-left: 10px !important;
+    width: 100px !important;
+    color: white !important;
+    background-color: rgba(92,39,251,1) !important;
+  }
+
+
+  .deleteButton{
+    margin-top: 5px !important;
+    margin-bottom: 20px !important;
+    margin-left: 10px !important;
+    width: 100px !important;
+    color: white !important;
+    background-color: #f50057 !important;
+  }
+
+  .header1Card{
+      margin-top: 12px;
+      font-size: 27px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+  }
+
+
+  .header3Card{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 5px;
+    margin-left: 15px;
+  }
+
+
+  .focusText{
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+
+
+  .compareCardImage{
+      height: 100 !important;
+      width: 100 !important;
+  }
+
+
+  .recPhones{
+      font-size: small;
+      margin-left: 15px;
+      color: rgba(92,39,251,1);
+      font-weight: bold;
+  }
+
+
+  .cardComponentCompare{
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    box-shadow: 0px 4px 2px 2px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%)!important;
+  }
+
+  .emptyRecButton{
+    margin: 40px !important;
+  }

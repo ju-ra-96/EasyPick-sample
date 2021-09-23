@@ -1,0 +1,74 @@
+h3{
+  font-family: 'Nunito Sans', sans-serif !important;
+  color: black;
+  font-weight: 200;
+}
+
+.privateform {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 720px !important;
+  width: 720px !important;
+  margin: 140px auto 100px;
+  padding: 25px;
+  box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%), 0 5px 5px 0 rgb(0 0 0 / -1%);
+}
+.privateform span{
+  color: #8e8e8e;
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  margin-bottom: 5px;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.privateform input {
+  border: 0.25px solid black; 
+  outline: 0;
+  width: 100%  !important;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: 'Nunito Sans', sans-serif !important;
+  width: 310px;
+  height: 40px;
+
+}
+#message{
+    height: 200px;
+    width: 100%;
+}
+
+#sendFeedback {
+  font-family: 'Nunito Sans', sans-serif !important;
+  outline: 0;
+  background: #1976d2;
+  width: 100px !important;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF !important;
+  font-size: 16px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+  margin-left: 570px !important;
+}
+#sendFeedback:hover, #sendFeedback:active,#sendFeedback:focus {
+  background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+  color: yellow !important;
+
+}
+
+.privateform .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.privateform .message a {
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,32 @@
+.rating-container{
+    display: flex !important;
+    width: 330px;
+    margin-left: -20px;
+}
+.rating-parent{
+    display: flex !important;
+    margin-right: 20px;
+}
+.rating-read{
+    margin-right: 20px;
+}
+.rating-write{
+    margin-right: 20px;
+}
+.number-of-raters{
+    margin-right: 20px;
+}
+.submit-button{
+  font-family: 'Nunito Sans', sans-serif !important;
+  outline: 0;
+  background: #1976d2;
+  width: 40px !important;
+  border: 0;
+  padding: 5px;
+  color: #FFFFFF !important;
+  font-size: 10px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+}

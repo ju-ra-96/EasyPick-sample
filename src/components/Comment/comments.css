@@ -1,0 +1,38 @@
+.comment-button {
+  height: 30px !important;
+  width: 60px !important;
+  color: blue !important;
+  cursor: pointer;
+  background-color: transparent !important;
+  border: none !important;
+  display: block !important;
+  padding: 0px !important;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.meta {
+  display: flex !important;
+}
+.user {
+  float: left !important;
+  font-weight: bold;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.time {
+  float: right !important;
+  margin-left: 55%;
+  font-weight: bold;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.buttons {
+  display: flex !important;
+}
+.comment-component {
+  background-color: aliceblue;
+  padding: 5px 5px 5px 5px !important;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+
+.makeComment {
+  width: 100%;
+  height: 50px;
+}

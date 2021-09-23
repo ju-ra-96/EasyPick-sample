@@ -1,0 +1,72 @@
+h3{
+  font-family: 'Nunito Sans', sans-serif !important;
+    color: black;
+    font-weight: 200;
+}
+
+.form {
+  width: 360px;
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 140px auto 100px;
+  padding: 25px;
+  box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%), 0 5px 5px 0 rgb(0 0 0 / -1%);
+}
+.forgotpassword{
+  font-family: 'Nunito Sans', sans-serif !important;
+  color: black !important;
+  font-size: 12px !important;
+  font-weight: bold;
+}
+.form span{
+  color: #8e8e8e;
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  margin-bottom: 5px;
+  font-family: 'Nunito Sans', sans-serif !important;
+}
+.form input {
+  border: 0.25px solid black; 
+  outline: 0;
+  width: 100%;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  width: 310px;
+  height: 40px;
+
+}
+.form button {
+  font-family: 'Nunito Sans', sans-serif !important;
+  outline: 0;
+  background: #1976d2;
+  width: 100px !important;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF !important;
+  font-size: 16px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+  margin-left: 210px !important;
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+  color: yellow !important;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form .message a {
+  color: black !important;
+  text-decoration: none;
+  font-size: 12px !important;
+}

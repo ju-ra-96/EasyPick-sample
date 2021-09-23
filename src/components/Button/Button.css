@@ -1,0 +1,46 @@
+:root {
+    --primary: #3acbf7 !important;
+}
+
+.btn2 {
+    padding: 8px 20px !important;
+    border-radius: 4px !important;
+    outline:  none !important;
+    border: none !important;
+    cursor: pointer !important;
+}
+
+.btn2:hover {
+    padding: 8px 20px !important;
+    transition: all 0.3s ease-out !important;
+    background: #fff !important;
+    color: #6568F4 !important;
+    transition: 250ms !important;
+}
+
+.btn2--primary{
+    background-color: var(--primary) !important;
+}
+
+.btn2--outline{
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: 8px 20px !important;
+    border-radius: 4px !important; 
+    border:var(--primary) !important;
+    transition: all 0.3s ease-out !important;
+}
+
+.btn2--medium{
+    padding: 8px 20px !important;
+    border-radius: 4px !important;
+    font-size: 18px !important;
+    color: #fff !important;
+}
+
+.btn2-large {
+    padding: 12px 26px !important;
+    border-radius: 4px !important;
+    font-size: 20px !important; 
+    color: #fff !important;
+}

@@ -1,0 +1,64 @@
+.myaccount-subpage{
+    padding: 50px 50px 50px 50px;
+}
+.myaccount-page h3{
+  font-family: 'Nunito Sans', sans-serif !important;
+    font-size: 24px;
+}
+.myaccount-page .key{
+  width: 300px;
+}
+.myaccount-page .value{
+  width: 300px;
+}
+.myaccount-subpage button {
+  font-family: 'Nunito Sans', sans-serif !important;
+  outline: 0;
+  background: #1976d2;
+  width: 100px !important;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF !important;
+  font-size: 16px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+  }
+  .myaccount-page p {
+    font-family: Arial;
+    font-size: 16px;
+  }
+  .entry{
+      display: flex;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      border-top: 1px gray solid;
+      border-bottom: 1px gray solid;
+  }
+  .newEntry{
+    display: flex;
+}
+  .myaccount-page .delete-button{
+    font-family: 'Nunito Sans', sans-serif !important;
+    outline: 0;
+    background: #1976d2;
+    width: 100px !important;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF !important;
+    font-size: 16px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    background: radial-gradient(circle, rgba(92,39,251,1) 0%, rgba(112,71,247,1) 100%) !important;
+    margin-bottom: 50px !important; 
+    margin-left:calc(100% - 150px) !important; 
+
+  }
+
+  .compareButton{
+    margin: 20px !important;
+    height: 70px !important;
+    background-color: #3acbf7 !important;
+  }

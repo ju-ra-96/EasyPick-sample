@@ -1,0 +1,89 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+}
+
+.App .card {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+label.radio+.radio {
+  margin-left: 0;
+}
+
+label.radio input {
+  margin-right: 10px;
+}
+
+.center-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 100%;
+}
+
+.display-correct {
+  display: flex;
+}
+
+ButtonQuiz{
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+input[type='radio'] {
+  height: 25px;
+  width: 25px;
+  vertical-align: middle;
+}
+
+.endResult {
+  font-size: 150%;
+}
+
+.endHeader{
+  font-size: 70;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.progress{
+  font-size:150%;
+  background-color: lightgreen;}
+
+.footerAlt{
+  position:relative;
+  left:0;
+  bottom:0;
+  right:0;
+}
+.margin-adjust{
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+

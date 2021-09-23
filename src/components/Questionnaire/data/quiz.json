@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "id":1,
+        "question": "About how much money would you like to spend on the phone ?",
+        "choices": ["Less than 200€", "Less than 400€", "Less than 600€", "More than 600€"],
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "question": "Are there some phone brands that you specially like ?",
+        "choices": ["Apple", "Samsung", "Blackberry", "Huawei","Motorola","Sony Ericsson","Xiaomi","ZTE","Other"],
+        "answer": ""
+      },
+      {
+        "id":3,
+        "question": "Are there some phone brands that you specially dislike ?",
+        "choices": ["Apple", "Samsung", "Blackberry", "Huawei","Motorola","Sony Ericsson","Xiaomi","ZTE","Other"],
+        "answer": ""
+      },
+      {
+        "id":4,
+        "question": "Will you use your phone for work ?",
+        "choices": ["Yes", "No"],
+        "answer": ""
+      },
+      {
+        "id":5,
+        "question": "How much do you want to play games on your phone ?",
+        "choices": ["For many hours a day", "I want to play casually", "I do not want to play games at all"],
+        "answer": ""
+      },
+      {
+        "id":6,
+        "question": "Do you often connect devices via Bluetooth ?",
+        "choices": ["Yes often", "Only sometimes", "I never turn on Bluetooth", "What  is Bluetooth ?"],
+        "answer": ""
+      },
+      {
+        "id":7,
+        "question": "How often do you plan to watch videos or movies on your phone (for example on YouTube or Netflix) ?",
+        "choices": ["I want to watch videos or movies every day", "I occasionally want to watch videos or movies", "I almost never watch videos on my phone"],
+        "answer": ""
+      },
+      {
+        "id":8,
+        "question": "How critical is the quality of the pictures which you will take with your phone camera?",
+        "choices": ["I will use the pictures of my phone for professional purposes", "I want to have a very good camera so I can upload and save high quality pictures", "I want to have a good camera so I can share my pictures with my friends", "I don’t care about camera quality"],
+        "answer": ""
+      },
+      {
+        "id":9,
+        "question": "Are you planning to have more than one phone number on the same phone (e.g. one work number, one personal number)?",
+        "choices": ["Yes", "No"],
+        "answer": ""
+      },
+      {
+        "id":10,
+        "question": "Which of these features are really important for you ?",
+        "choices": ["The phone should be extremely lightweight", "The phone should be able to recognize my face", "The phone should be able to recognize my fingerprints"],
+        "answer": ""
+      }
+    ]
+  }
